@@ -1,0 +1,2 @@
+# javacript.vikash
+javascript code
